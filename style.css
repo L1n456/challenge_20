@@ -86,6 +86,10 @@ body{
     cursor: pointer;
 }
 
+.w{
+    color: white;
+}
+
 .card{
     margin-bottom: 15%;
     height: 45%;
